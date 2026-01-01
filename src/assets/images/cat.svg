@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Cat Body -->
+  <ellipse cx="100" cy="120" rx="45" ry="55" fill="#FF9A56" stroke="#333" stroke-width="2"/>
+
+  <!-- Cat Head -->
+  <circle cx="100" cy="70" r="35" fill="#FF9A56" stroke="#333" stroke-width="2"/>
+
+  <!-- Left Ear -->
+  <path d="M 75 50 L 70 20 L 85 45 Z" fill="#FF9A56" stroke="#333" stroke-width="2"/>
+  <path d="M 75 50 L 72 30 L 82 45 Z" fill="#FFB380"/>
+
+  <!-- Right Ear -->
+  <path d="M 125 50 L 130 20 L 115 45 Z" fill="#FF9A56" stroke="#333" stroke-width="2"/>
+  <path d="M 125 50 L 128 30 L 118 45 Z" fill="#FFB380"/>
+
+  <!-- Left Eye -->
+  <ellipse cx="88" cy="68" rx="6" ry="10" fill="#333"/>
+  <circle cx="88" cy="65" r="2" fill="white"/>
+
+  <!-- Right Eye -->
+  <ellipse cx="112" cy="68" rx="6" ry="10" fill="#333"/>
+  <circle cx="112" cy="65" r="2" fill="white"/>
+
+  <!-- Nose -->
+  <path d="M 100 78 L 97 82 L 103 82 Z" fill="#FF6B9D"/>
+
+  <!-- Mouth -->
+  <path d="M 100 82 Q 95 85 92 84" stroke="#333" stroke-width="1.5" fill="none"/>
+  <path d="M 100 82 Q 105 85 108 84" stroke="#333" stroke-width="1.5" fill="none"/>
+
+  <!-- Whiskers Left -->
+  <line x1="70" y1="72" x2="50" y2="70" stroke="#333" stroke-width="1"/>
+  <line x1="70" y1="76" x2="50" y2="78" stroke="#333" stroke-width="1"/>
+
+  <!-- Whiskers Right -->
+  <line x1="130" y1="72" x2="150" y2="70" stroke="#333" stroke-width="1"/>
+  <line x1="130" y1="76" x2="150" y2="78" stroke="#333" stroke-width="1"/>
+
+  <!-- Left Arm -->
+  <ellipse cx="70" cy="135" rx="12" ry="25" fill="#FF9A56" stroke="#333" stroke-width="2"/>
+
+  <!-- Right Arm -->
+  <ellipse cx="130" cy="135" rx="12" ry="25" fill="#FF9A56" stroke="#333" stroke-width="2"/>
+
+  <!-- Tail -->
+  <path d="M 140 120 Q 160 110 165 130 Q 170 150 155 155" stroke="#333" stroke-width="2" fill="#FF9A56"/>
+
+  <!-- Belly Patch -->
+  <ellipse cx="100" cy="130" rx="25" ry="35" fill="#FFD4B3" opacity="0.7"/>
+
+  <!-- Left Foot -->
+  <ellipse cx="85" cy="170" rx="15" ry="10" fill="#FF9A56" stroke="#333" stroke-width="2"/>
+
+  <!-- Right Foot -->
+  <ellipse cx="115" cy="170" rx="15" ry="10" fill="#FF9A56" stroke="#333" stroke-width="2"/>
+</svg>
